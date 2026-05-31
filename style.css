@@ -1,0 +1,38 @@
+/* Базові налаштування */
+body {
+    background: url("https://m.media-amazon.com/images/I/71rzlQ2XMOL.jpg");
+    font-family: 'Arial', sans-serif;
+    background-color: #ffffff;
+    color: #333;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+#quiz-screen{
+    
+}
+.hide{
+    display: none;
+}
+
+
+
+.show{
+    display: block;
+}
+h1{
+    color: black;
+    text-align: center;
+    font-size: 40px;
+}
+button{
+    text-align: center;
+    border: 3px solid black;
+    font-size: 30px;
+    border-radius:20px;
+    background-color:transparent;
+    
+}
